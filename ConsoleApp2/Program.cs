@@ -8,5 +8,9 @@ namespace ConsoleApp2
         {
             Console.WriteLine("Hello World! Poonam");
         }
+        void Run()
+        {
+            Console.WriteLine("Hello World! from RUn");
+        }
     }
 }
